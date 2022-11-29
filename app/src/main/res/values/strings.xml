@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">tasca2</string>
+    <string name="titulo">Crear Incidencia</string>
+    <string name="nom">Nombre:</string>
+    <string name="element">Elemento:</string>
+    <string name="tipus">Estado:</string>
+    <string name="ubicacio">Ubicación:</string>
+    <string name="descripcio">Descripción:</string>
+    <string name="data">Fecha:</string>
+    <string name="channel_name">test</string>
+    <string name="channel_description">testest</string>
+</resources>
